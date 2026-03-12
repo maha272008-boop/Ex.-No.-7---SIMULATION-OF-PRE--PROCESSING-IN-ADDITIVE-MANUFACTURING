@@ -44,31 +44,9 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-<img width="1870" height="785" alt="Screenshot 2026-03-11 202734" src="https://github.com/user-attachments/assets/c3a38ccc-663b-4769-8467-4c944f81ce11" />
-<img width="1863" height="786" alt="Screenshot 2026-03-11 202747" src="https://github.com/user-attachments/assets/2c5c8206-a40a-43f5-b149-fdc90044caaa" />
-<img width="1871" height="874" alt="Screenshot 2026-03-11 202759" src="https://github.com/user-attachments/assets/38d6f283-5627-4519-aaae-72c9c8f99e04" />
-<img width="1857" height="801" alt="Screenshot 2026-03-11 202831" src="https://github.com/user-attachments/assets/cd269605-7b2b-4f38-8d4b-aa8ee3938f68" />
-<img width="1878" height="809" alt="Screenshot 2026-03-11 202856" src="https://github.com/user-attachments/assets/a4d8ff64-13d8-459b-90f5-820c80a5511f" />
-<img width="1873" height="813" alt="Screenshot 2026-03-11 202907" src="https://github.com/user-attachments/assets/4e1f06bf-56aa-41dc-96eb-dae27caccd4a" />
-<img width="1863" height="779" alt="Screenshot 2026-03-11 202924" src="https://github.com/user-attachments/assets/890ca779-dfe5-4e78-8fcd-fe4fd3dcb93d" />
-<img width="1880" height="797" alt="Screenshot 2026-03-11 202935" src="https://github.com/user-attachments/assets/508a53d0-7ddc-477b-9fa2-d8126c603fb4" />
-<img width="1869" height="792" alt="Screenshot 2026-03-11 202945" src="https://github.com/user-attachments/assets/f56d7e1f-b129-4865-b57e-c52d6a4910ad" />
-<img width="1858" height="783" alt="Screenshot 2026-03-11 203000" src="https://github.com/user-attachments/assets/f22753ef-1685-4cd4-b649-61f55a75c37c" />
-<img width="1858" height="803" alt="Screenshot 2026-03-11 203009" src="https://github.com/user-attachments/assets/f42c02df-7927-4656-a8e9-3b96f0298b53" />
-<img width="1865" height="786" alt="Screenshot 2026-03-11 203037" src="https://github.com/user-attachments/assets/2d88ece7-d70c-4dfb-82ab-898b5d921e2f" />
-<img width="1889" height="789" alt="image" src="https://github.com/user-attachments/assets/db6d75e5-3c39-4707-938a-87feb723def6" />
-<img width="1881" height="800" alt="image" src="https://github.com/user-attachments/assets/197d4153-2414-4e8e-aa09-c3ff2f670b11" />
-<img width="1868" height="777" alt="image" src="https://github.com/user-attachments/assets/72f0a1db-f4bd-43c3-a136-c701ea4657e5" />
-<img width="1883" height="790" alt="image" src="https://github.com/user-attachments/assets/61ea9a02-cdce-44ba-8d26-5796ef9591f5" />
-<img width="1869" height="793" alt="Screenshot 2026-03-11 204259" src="https://github.com/user-attachments/assets/0f1bf9de-0d5e-4502-81c0-a25a6f03104a" />
-<img width="1893" height="796" alt="image" src="https://github.com/user-attachments/assets/5760701b-ee13-4e4f-9cc4-6ed77493e7dd" />
-
-
-
-
-
-
-
+<img width="1873" height="813" alt="Screenshot 2026-03-11 202907" src="https://github.com/user-attachments/assets/292bfa70-9c9a-4cab-8800-a52e61a0a2ca" />
+<img width="1865" height="786" alt="Screenshot 2026-03-11 203037" src="https://github.com/user-attachments/assets/f7bdde6d-3f46-40c5-92eb-98171cb46a11" />
+<img width="1893" height="796" alt="Screenshot 2026-03-11 203710" src="https://github.com/user-attachments/assets/fa088524-3601-42c8-a2e3-63aa9fb5382c" />
 
 ### Name:MAHALAKSHMI P
 ### Register Number:212225100024
