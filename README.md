@@ -44,8 +44,14 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+
+
 <img width="1873" height="813" alt="Screenshot 2026-03-11 202907" src="https://github.com/user-attachments/assets/292bfa70-9c9a-4cab-8800-a52e61a0a2ca" />
+
+
 <img width="1865" height="786" alt="Screenshot 2026-03-11 203037" src="https://github.com/user-attachments/assets/f7bdde6d-3f46-40c5-92eb-98171cb46a11" />
+
+
 <img width="1893" height="796" alt="Screenshot 2026-03-11 203710" src="https://github.com/user-attachments/assets/fa088524-3601-42c8-a2e3-63aa9fb5382c" />
 
 ### Name:MAHALAKSHMI P
